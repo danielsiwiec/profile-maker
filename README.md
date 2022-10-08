@@ -1,7 +1,4 @@
-# Slalom Profiles Maker
-
-Go to https://slalom.github.io/profiles
-
+# Profiles Maker
 
 ## Running locally
 
